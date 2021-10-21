@@ -1,0 +1,26 @@
+{
+	"function": "set_name",
+	"entity": "this",
+	"name": [
+		{
+			"text": "",
+			"color": "gray"
+		},
+		[
+			{
+				"text": "",
+				"color": "yellow"
+			},
+			{
+				"nbt": "value[]",
+				"storage": "mobbar:",
+				"separator": ""
+			}
+		],
+		{
+			"nbt": "left[]",
+			"storage": "mobbar:",
+			"separator": ""
+		}
+	]
+}

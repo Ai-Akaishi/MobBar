@@ -1,0 +1,28 @@
+{
+	"function": "set_name",
+	"entity": "this",
+	"name": [
+		{
+			"nbt": "base_format",
+			"storage": "mobbar:",
+			"interpret": true
+		},
+		[
+			{
+				"nbt": "accent_format",
+				"storage": "mobbar:",
+				"interpret": true
+			},
+				{
+				"nbt": "value[]",
+				"storage": "mobbar:",
+				"separator": ""
+			}
+		],
+		{
+			"nbt": "left[]",
+			"storage": "mobbar:",
+			"separator": ""
+		}
+	]
+}
